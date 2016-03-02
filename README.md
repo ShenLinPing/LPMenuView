@@ -1,4 +1,4 @@
-# LPMenuView说明
+#一. LPMenuView说明
 
 * 由项目定制需求 对KxMenu的部分代码改动，主要是为了符合项目的需求。
 
@@ -6,7 +6,8 @@
 
 * 另名字叫LPMenuView，但实际类名还是MxMenum,毕竟改动的地方也不是很多，话说就这么改个名字放上来真的好吗（逃
 
-二.  功能
+
+#二.  功能
 
 在原来的基础上 增加了
 
@@ -16,9 +17,10 @@
 
 3. 增加视图显示和消失的通知
 
-三.  References： 
-     KxMenu的原作者是kolyvan，
-     
-     用法与原来一样，
-     
-     在此附上link ：https://github.com/kolyvan/kxmenu
+#三.  References： 
+
+KxMenu的原作者是kolyvan，
+   
+用法与原来一样，
+
+在此附上link ：https://github.com/kolyvan/kxmenu
